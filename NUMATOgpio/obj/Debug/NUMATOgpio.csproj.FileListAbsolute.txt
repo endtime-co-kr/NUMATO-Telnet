@@ -1,0 +1,6 @@
+D:\업무\VOR 수신기 시험장비\Code\DLL\NUMATOgpio\obj\Debug\NUMATOgpio.csproj.AssemblyReference.cache
+D:\업무\VOR 수신기 시험장비\Code\DLL\NUMATOgpio\obj\Debug\NUMATOgpio.csproj.CoreCompileInputs.cache
+D:\업무\VOR 수신기 시험장비\Code\DLL\NUMATOgpio\bin\Debug\NUMATOgpio.dll
+D:\업무\VOR 수신기 시험장비\Code\DLL\NUMATOgpio\bin\Debug\NUMATOgpio.pdb
+D:\업무\VOR 수신기 시험장비\Code\DLL\NUMATOgpio\obj\Debug\NUMATOgpio.dll
+D:\업무\VOR 수신기 시험장비\Code\DLL\NUMATOgpio\obj\Debug\NUMATOgpio.pdb
