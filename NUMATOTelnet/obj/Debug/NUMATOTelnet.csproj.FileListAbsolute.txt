@@ -1,0 +1,9 @@
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\obj\Debug\NUMATOTelnet.csproj.AssemblyReference.cache
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\obj\Debug\NUMATOTelnet.csproj.CoreCompileInputs.cache
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\bin\Debug\NUMATOTelnet.exe
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\bin\Debug\NUMATOTelnet.pdb
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\obj\Debug\NUMATOTelnet.exe
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\obj\Debug\NUMATOTelnet.pdb
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\bin\Debug\NUMATOgpio.dll
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\bin\Debug\NUMATOgpio.pdb
+D:\업무\VOR 수신기 시험장비\Code\Test\NUMATOTelnet\NUMATOTelnet\obj\Debug\NUMATOTelnet.csproj.CopyComplete
